@@ -3,10 +3,8 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [System Architecture](#system-architecture)
-- [What You'll Learn](#what-youll-learn)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
-- [Watch the Video Tutorial](#watch-the-video-tutorial)
 
 ## Introduction
 
@@ -25,7 +23,7 @@ The project is designed with the following components:
 - **Kafka Connect**: For connecting to elasticsearch
 - **Elasticsearch**: For indexing and querying
 
-## What You'll Learn
+## What will I do
 
 - Setting up data pipeline with TCP/IP 
 - Real-time data streaming with Apache Kafka
@@ -59,5 +57,4 @@ The project is designed with the following components:
     ```bash
     docker-compose up
     ```
-
-For more detailed instructions, please check out the video tutorial linked below.
+4. (Not complete, I will write readme in a near day)
